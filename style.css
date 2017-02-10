@@ -1,0 +1,48 @@
+body
+{
+
+    background-color: #ecf0f1;
+
+    font-size: 28px;
+}
+.layout div
+{
+    border-top-style: groove;
+    border-right-style: solid;
+    border-bottom-style: groove;
+    border-left-style: solid;
+}
+h1
+{
+  color: #0000ff;
+  text-align: center;
+  text-decoration: none;
+}
+h2
+{
+  color: #1e90ff;
+  text-decoration: none;
+}
+h3
+{
+  color: #4169e1;
+}
+p
+{
+  color:#734c4c;
+}
+img
+{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+ul
+{
+    list-style-type: circle;
+}
+ol
+{
+    list-style-type: upper-roman;
+    text-decoration: none;
+}
